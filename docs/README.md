@@ -3,5 +3,6 @@
 > Designed by 金枪鱼船
 >             Version 0.0.1
 
-Profile
-[>>序言](introduction)
+欢迎新会一中学生生存指导手册！这里是新会一中毕业生自发创建的网站。
+
+[>>序言](序言)
